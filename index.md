@@ -1,6 +1,5 @@
 ---
-layout: page
-title: Aidan Boland
+title: "Aidan Boland"
 ---
 
 My GitHub homepage
