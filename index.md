@@ -1,6 +1,5 @@
----
-title: "Aidan Boland"
----
+
+# Aidan Boland
 
 My GitHub homepage
 
@@ -12,7 +11,7 @@ Test input
 ***
 
 ### Insert more here
-
+* messing around
 
 ***
 
