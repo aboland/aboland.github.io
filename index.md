@@ -1,11 +1,9 @@
 
-# Aidan Boland
-
-My GitHub homepage
+# My GitHub homepage
 
 ***
 
-### Secondary Title
+## What this is about?
 Test input
 
 ***
