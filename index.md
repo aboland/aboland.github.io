@@ -1,3 +1,6 @@
+---
+layout: home
+---
 
 # My GitHub homepage
 
