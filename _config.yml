@@ -1,8 +1,8 @@
-#theme: jekyll-theme-slate
-#title: [Aidan Boland]
-#github:
-#  zip_url: http://github.aboland.ie/download.zip
-#  another_url: another value
+theme: jekyll-theme-slate
+title: [Aidan Boland]
+github:
+  zip_url: http://github.aboland.ie/download.zip
+  another_url: another value
 
 
 layout: sidebar
