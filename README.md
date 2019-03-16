@@ -1,3 +1,2 @@
-# Aidan Boland
 
-A repo for my [github webpage](https://aboland.github.io).
+Source for my github webpage [https://aboland.github.io](https://aboland.github.io).
