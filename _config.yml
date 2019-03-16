@@ -1,5 +1,40 @@
-theme: jekyll-theme-slate
-title: [Aidan Boland]
-github:
-  zip_url: http://github.aboland.ie/download.zip
-  another_url: another value
+title: github.aboland.ie
+author: Aidan Boland
+email: aidansboland@gmail.com
+description: > # this means to ignore newlines until "show_exerpts:"
+  This is the landing page for my GitHub account. Here you will find information about my code.
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    twitter: AidoBo
+    github:  aboland
+    # instagram: jekyll
+    # linkedin: jekyll
+
+  projects:
+    sort_by: pushed
+    # sort_by options:
+    #   - pushed
+    #   - stars
+    limit: 9
+    exclude:
+      forks: true
+      projects:
+      # - repo-name
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+# Build settings
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag

@@ -1,10 +1,7 @@
 ---
 layout: home
+title: My GitHub homepage
 ---
-
-# My GitHub homepage
-
-***
 
 
 My GitHub account contains a few small repositories.
